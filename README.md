@@ -24,3 +24,7 @@ git clone https://github.com/your-username/PRODIGY_WD_Task04.git
 2.Open index.html in a web browser.
 
 3.Navigate through different sections to explore the portfolio
+
+## Preview
+![Personal Portfolio Website]
+<img width="1911" height="854" alt="Screenshot 2025-09-16 101740" src="https://github.com/user-attachments/assets/d4f5f58e-8450-44d9-bf6e-f77060d7b5ea" />
